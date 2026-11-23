@@ -1,4 +1,4 @@
-# Turns the trained models + test results into one JSON file the web page reads.
+# Exports everything the web page needs into one json file.
 # What goes in:
 #   - the EBM lookup tables (so the browser can compute predictions itself)
 #   - summary stats for the "data" section

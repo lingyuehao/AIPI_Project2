@@ -1,4 +1,4 @@
-# Loads the raw data, builds features and trains the models.
+# loads raw data, makes features, trains the models
 # Two feature sets:
 #   - "booking": stuff you'd know when you buy the ticket
 #   - "dayof":   booking features + weather at the origin airport at departure time
